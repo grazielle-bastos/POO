@@ -1,2 +1,12 @@
+# === Compilação ===
 /bin/
+
+# === Anotações pessoais, documentação local ===
 src/docs/
+*.md~           
+# backups de arquivos Markdown
+
+# === IDEs ===
+# Eclipse
+.classpath
+.project
